@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+I'm a PhD student in Economics at Goethe University Frankfurt, Germany. My research fields are macroeconomics and labor economics.
