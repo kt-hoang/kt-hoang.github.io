@@ -2,7 +2,7 @@
 title: "Working Papers"
 collection: publications
 # type: "Talk"
-permalink: /research/WP
+permalink: /research/WP.md
 # venue: "London School of Testing"
 # date: 2014-02-01
 # location: "London, UK"
